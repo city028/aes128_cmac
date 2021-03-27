@@ -5,15 +5,16 @@
  _____) ) ____| | | || |_| ____( (___| | | |
  (______/|_____)_|_|_| \__)_____)\____)_| |_|
  (C)2013 Semtech
- 
+
  Description: Helper functions implementation
- 
+
  License: Revised BSD License, see LICENSE.TXT file include in the project
- 
+
  Maintainer: Miguel Luis and Gregory Cristian
  */
 #include <stdlib.h>
 #include <stdio.h>
+#include <stdint.h>      // City028: Required for unint8 etc
 //#include "board.h"
 #include "utilities.h"
 
